@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou Murilo Barbiere Dias
 
 🎓 Estudante de **Sistemas de Informação (UFMS – 5º semestre)**
+
 💻 Desenvolvedor **Back-end / Full Stack em formação**
+
 📍 Campo Grande – MS
 
 ---
