@@ -1,68 +1,71 @@
-# 👋 Olá, eu sou Murilo Barbiere Dias
+<h1 align="center">Olá 👋, eu sou Murilo Barbiere</h1>
 
-🎓 Estudante de **Sistemas de Informação (UFMS – 5º semestre)**
+<h3 align="center">
+Full Stack Developer • Back-end Focused
+</h3>
 
-💻 Desenvolvedor **Back-end / Full Stack em formação**
-
-📍 Campo Grande – MS
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de Sistemas de Informação com foco em desenvolvimento **back-end e full stack**, utilizando principalmente **Java, Spring Boot e SQL**.
-
-Busco uma oportunidade de **estágio ou posição júnior**, onde eu possa aplicar meus conhecimentos técnicos, evoluir profissionalmente e contribuir com o desenvolvimento de soluções reais e bem estruturadas.
-
-Tenho interesse especial por boas práticas de programação, arquitetura de software, APIs REST e organização de projetos.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Full+Stack+Developer;Especializado+em+Back-end+com+Java+e+Spring+Boot;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis+e+bem+estruturadas." alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+## Sobre mim
 
-* **Java | Spring Boot**
-* **SQL | PostgreSQL | MySQL**
-* **JavaScript | HTML | CSS**
-* Python
-* C / C++
-* Git | GitHub
+Estudante de **Sistemas de Informação**.
 
----
+Sou um desenvolvedor **Full Stack** com foco principal em **Back-end**, apaixonado por criar aplicações bem estruturadas, escaláveis e de fácil manutenção.
 
-## 🎓 Formação
+Meu maior interesse está no desenvolvimento de APIs REST, arquitetura de software e banco de dados, mas também possuo conhecimentos em tecnologias Front-end para construir aplicações completas.
 
-**Sistemas de Informação – Universidade Federal de Mato Grosso do Sul (UFMS)**
-5º semestre – Conclusão prevista: 2027
-
-**Ensino médio completo** – 2022
+Atualmente busco minha primeira oportunidade de estágio para evoluir como desenvolvedor e contribuir em projetos reais.
 
 ---
 
-## 📚 Cursos complementares
+## Tecnologias
 
-* Estratégia de Negócios – Fundação Bradesco (20h)
-* Empreendedorismo e Inovação – Fundação Bradesco (12h)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,html,css,js,vscode,idea" />
 
-## 🧠 Habilidades
-
-* Desenvolvimento de APIs REST
-* Banco de dados relacional
-* Lógica de programação
-* Git e controle de versão
-* Métodos ágeis (Scrum e Kanban – fundamentos)
-* Trabalho em equipe
-* Comunicação
+</p>
 
 ---
 
-## 📫 Contato
+## Linguagens mais utilizadas
 
-📧 Email: [murilobarbiere86@gmail.com](mailto:murilobarbiere86@gmail.com)
+<p align="center">
 
-🔗 LinkedIn: [https://www.linkedin.com/in/murilo-barbiere](https://www.linkedin.com/in/murilo-barbiere)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Barbiere&layout=compact&theme=tokyonight"/>
 
-💻 GitHub: [https://github.com/Murilo-Barbiere](https://github.com/Murilo-Barbiere)
+</p>
 
 ---
+
+## Contato
+
+<p align="center">
+
+<a href="https://github.com/Murilo-Barbiere">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="www.linkedin.com/in/murilo-barbiere">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="murilobarbiere.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "A melhor forma de aprender é construindo."
+
+Obrigado pela visita!
+
+</div>
