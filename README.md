@@ -8,6 +8,10 @@ Full Stack Developer • Back-end Focused
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Full+Stack+Developer;Especializado+em+Back-end+com+Java+e+Spring+Boot;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis+e+bem+estruturadas." alt="Typing SVG" />
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,ts,spring,postgres,docker,git,github,html,css,js" />
+</p>
+
 ---
 
 ## Sobre mim
@@ -18,33 +22,11 @@ Sou um desenvolvedor **Full Stack** com foco principal em **Back-end**, apaixona
 
 Meu maior interesse está no desenvolvimento de APIs REST, arquitetura de software e banco de dados, mas também possuo conhecimentos em tecnologias Front-end para construir aplicações completas.
 
-Atualmente busco minha primeira oportunidade de estágio para evoluir como desenvolvedor e contribuir em projetos reais.
-
----
-
-## Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,html,css,js,vscode,idea" />
-
-</p>
-
----
-
-## Linguagens mais utilizadas
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Barbiere&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## Contato
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/Murilo-Barbiere">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
@@ -59,13 +41,3 @@ Atualmente busco minha primeira oportunidade de estágio para evoluir como desen
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-### 💡 "A melhor forma de aprender é construindo."
-
-Obrigado pela visita!
-
-</div>
